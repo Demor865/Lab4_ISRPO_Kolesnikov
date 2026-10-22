@@ -83,7 +83,7 @@ git commit -m "Update"
 
 ## 8. Картинка из папки repo/
 
-![Скриншот браузера](../img/index.html.png)
+![Скриншот браузера](../repo/index.html.png)
 
 ## 9. Ссылки
 
