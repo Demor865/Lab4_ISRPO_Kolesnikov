@@ -1,0 +1,15 @@
+C:\Users\vladr\documents\project\ISRPO_C#\Lab4_ISRPO_Kolesnikov\server\bin\Debug\net10.0\server.exe
+C:\Users\vladr\documents\project\ISRPO_C#\Lab4_ISRPO_Kolesnikov\server\bin\Debug\net10.0\server.deps.json
+C:\Users\vladr\documents\project\ISRPO_C#\Lab4_ISRPO_Kolesnikov\server\bin\Debug\net10.0\server.runtimeconfig.json
+C:\Users\vladr\documents\project\ISRPO_C#\Lab4_ISRPO_Kolesnikov\server\bin\Debug\net10.0\server.dll
+C:\Users\vladr\documents\project\ISRPO_C#\Lab4_ISRPO_Kolesnikov\server\bin\Debug\net10.0\server.pdb
+C:\Users\vladr\documents\project\ISRPO_C#\Lab4_ISRPO_Kolesnikov\server\obj\Debug\net10.0\server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladr\documents\project\ISRPO_C#\Lab4_ISRPO_Kolesnikov\server\obj\Debug\net10.0\server.AssemblyInfoInputs.cache
+C:\Users\vladr\documents\project\ISRPO_C#\Lab4_ISRPO_Kolesnikov\server\obj\Debug\net10.0\server.AssemblyInfo.cs
+C:\Users\vladr\documents\project\ISRPO_C#\Lab4_ISRPO_Kolesnikov\server\obj\Debug\net10.0\server.csproj.CoreCompileInputs.cache
+C:\Users\vladr\documents\project\ISRPO_C#\Lab4_ISRPO_Kolesnikov\server\obj\Debug\net10.0\server.sourcelink.json
+C:\Users\vladr\documents\project\ISRPO_C#\Lab4_ISRPO_Kolesnikov\server\obj\Debug\net10.0\server.dll
+C:\Users\vladr\documents\project\ISRPO_C#\Lab4_ISRPO_Kolesnikov\server\obj\Debug\net10.0\refint\server.dll
+C:\Users\vladr\documents\project\ISRPO_C#\Lab4_ISRPO_Kolesnikov\server\obj\Debug\net10.0\server.pdb
+C:\Users\vladr\documents\project\ISRPO_C#\Lab4_ISRPO_Kolesnikov\server\obj\Debug\net10.0\server.genruntimeconfig.cache
+C:\Users\vladr\documents\project\ISRPO_C#\Lab4_ISRPO_Kolesnikov\server\obj\Debug\net10.0\ref\server.dll
